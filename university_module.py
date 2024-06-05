@@ -57,7 +57,7 @@ class University:
                     return list_tuple
 
 
-u1 = University('Urban', 'students_grades.db')
+u1 = University('Urban', 'student_grade.db')
 # u1.add_directly()
 
 u1.add_student('Ivan', 26)  # id - 1
